@@ -4,3 +4,6 @@ C:\Users\scottyboi\Documents\jquery\code\Comparison\MyBuild\MyBuild\bin\Debug\My
 C:\Users\scottyboi\Documents\jquery\code\Comparison\MyBuild\MyBuild\bin\Debug\MyBuild.pdb
 C:\Users\scottyboi\Documents\jquery\code\Comparison\MyBuild\MyBuild\obj\Debug\MyBuild.exe
 C:\Users\scottyboi\Documents\jquery\code\Comparison\MyBuild\MyBuild\obj\Debug\MyBuild.pdb
+C:\Users\scottyboi\Documents\GitHub\Equality\MyBuild\MyBuild\bin\Debug\MyBuild.exe.config
+C:\Users\scottyboi\Documents\GitHub\Equality\MyBuild\MyBuild\obj\Debug\MyBuild.exe
+C:\Users\scottyboi\Documents\GitHub\Equality\MyBuild\MyBuild\obj\Debug\MyBuild.pdb
